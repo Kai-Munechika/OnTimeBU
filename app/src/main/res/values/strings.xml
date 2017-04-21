@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnTimeBU</string>
+    <string name="noBusOnline">No buses are heading to your stop.</string>
+    <string name="zeroTimeString">0:00</string>
+</resources>
